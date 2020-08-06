@@ -1,5 +1,5 @@
 # weather-app
-Simple weather application that gets your location and weather fetches data on based location through OpenWeatherMap API. 
+Simple weather application that gets your location and fetches weather data on based location through OpenWeatherMap API. 
 
 Icons by @manifestinteractive https://github.com/manifestinteractive/weather-underground-icons
 
